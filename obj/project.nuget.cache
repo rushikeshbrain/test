@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5j9iQ1XGpzAc/C/j7kyPJ/TQX+A/WmKGO4QR5RS7YsvJGikDrSoDJ7qozImjyC0c1HJmCuLeV6Ej0cOraUvUYg==",
+  "dgSpecHash": "WMpf8puW1JjPeUGFZ1CTPl3x9GDsYvdDBpRbmDjM1Lf8Li/tUHDOMwOF0YXIelDt9UboP7M0CfPJUtgetoKrdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\myWebApp.csproj",
+  "projectFilePath": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\test\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

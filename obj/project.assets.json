@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\myWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\test\\myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\myWebApp.csproj",
+      "projectPath": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\test\\myWebApp.csproj",
       "packagesPath": "C:\\Users\\rushikesh.bhambore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\obj\\",
+      "outputPath": "C:\\Users\\rushikesh.bhambore\\Desktop\\.net project\\dotnetcore\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rushikesh.bhambore\\AppData\\Roaming\\NuGet\\NuGet.Config",
