@@ -1,0 +1,120 @@
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\appsettings.json
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.exe
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.deps.json
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.runtimeconfig.json
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.runtimeconfig.dev.json
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\ref\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.pdb
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.Views.dll
+D:\.NETCOREPROJECT\myWebApp\bin\Debug\net5.0\myWebApp.Views.pdb
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.csprojAssemblyReference.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.AssemblyInfoInputs.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.AssemblyInfo.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.csproj.CoreCompileInputs.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.xml
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\scopedcss\bundle\myWebApp.styles.css
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.TagHelpers.input.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.TagHelpers.output.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.RazorCoreGenerate.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cs
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.Views.pdb
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\ref\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.pdb
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.genruntimeconfig.cache
+D:\.NETCOREPROJECT\myWebApp\obj\Debug\net5.0\myWebApp.csproj.CopyComplete
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\appsettings.Development.json
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\appsettings.json
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.exe
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.deps.json
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.runtimeconfig.json
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.runtimeconfig.dev.json
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\ref\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.pdb
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.Views.dll
+D:\.NETCOREPROJECT\myWebApp\dotnettest\bin\Debug\net5.0\myWebApp.Views.pdb
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.csprojAssemblyReference.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.AssemblyInfoInputs.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.AssemblyInfo.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.csproj.CoreCompileInputs.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.xml
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\scopedcss\bundle\myWebApp.styles.css
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.TagHelpers.input.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.TagHelpers.output.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.RazorCoreGenerate.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cs
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.Views.pdb
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\ref\myWebApp.dll
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.pdb
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.genruntimeconfig.cache
+D:\.NETCOREPROJECT\myWebApp\dotnettest\obj\Debug\net5.0\myWebApp.csproj.CopyComplete
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\appsettings.json
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.exe
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.deps.json
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.runtimeconfig.json
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.runtimeconfig.dev.json
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.dll
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\ref\myWebApp.dll
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.pdb
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.Views.dll
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\bin\Debug\net5.0\myWebApp.Views.pdb
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.csprojAssemblyReference.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.AssemblyInfo.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.csproj.CoreCompileInputs.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\staticwebassets\myWebApp.StaticWebAssets.xml
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\scopedcss\bundle\myWebApp.styles.css
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.TagHelpers.input.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.TagHelpers.output.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.RazorCoreGenerate.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.Views.pdb
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.dll
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\ref\myWebApp.dll
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.pdb
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.genruntimeconfig.cache
+C:\Users\rushikesh.bhambore\Desktop\.net project\dotnetcore\obj\Debug\net5.0\myWebApp.csproj.CopyComplete
